@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/uiFount.spritefont</SourceFile>
+  <SourceTime>2020-10-29T11:22:02.5114902+00:00</SourceTime>
+  <DestFile>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/bin/DesktopGL/uiFount.xnb</DestFile>
+  <DestTime>2020-10-29T11:32:10.2923584+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
