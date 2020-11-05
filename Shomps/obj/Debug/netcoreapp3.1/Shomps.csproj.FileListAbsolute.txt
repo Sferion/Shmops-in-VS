@@ -26,3 +26,6 @@ F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\obj\
 F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\background.xnb
 F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\uiFount.xnb
 F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\bigUiFount.xnb
+F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\particle.xnb
+F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\missileExplode.xnb
+F:\Clasess project\monogame projects\First game scraps\shmops\Shomps\Shomps\bin\Debug\netcoreapp3.1\Content\shipExplode.xnb

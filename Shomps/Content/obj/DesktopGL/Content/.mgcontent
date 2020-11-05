@@ -7,10 +7,16 @@
     <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/background.png</File>
     <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/bigUiFount.spritefont</File>
     <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/missile.png</File>
+    <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/missileExplode.wav</File>
+    <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/particle.png</File>
     <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/saucer.png</File>
+    <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/shipExplode.wav</File>
     <File>F:/Clasess project/monogame projects/First game scraps/shmops/Shomps/Shomps/Content/uiFount.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
